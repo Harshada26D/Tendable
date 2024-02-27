@@ -1,6 +1,6 @@
 # Tendable
 
-# Brief Discription- 
+# Brief Discription of Company- 
 Over the past 7 years, we have helped energise tens of thousands of front line staff across the world by providing the best, most simple to use mobile inspection and auditing tools that help educate and engage staff as they do their work and make things better. And since we engage front line staff way beyond “one-size fits all” compliance tools, management get much better quality data using Tendable. Across all settings and internationally, we can help drive a real change in culture
 
 # Task- 
